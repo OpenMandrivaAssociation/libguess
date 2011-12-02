@@ -1,6 +1,6 @@
 %define name libguess
-%define version 1.0
-%define release %mkrel 2
+%define version 1.1
+%define release %mkrel 1
 %define major 1
 %define libname %mklibname guess %major
 %define develname %mklibname -d guess
@@ -8,7 +8,7 @@ Summary: A high-speed character set detection library
 Name: %{name}
 Version: %{version}
 Release: %{release}
-Source0: http://mirror.billymays.us/%name/%{name}-%{version}.tgz
+Source0: http://distfiles.atheme.org/%{name}-%{version}.tar.bz2
 License: BSD
 Group: System/Libraries
 Url: http://www.atheme.org/project/guess
