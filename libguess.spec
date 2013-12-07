@@ -5,7 +5,7 @@
 Summary:	A high-speed character set detection library
 Name:		libguess
 Version:	1.1
-Release:	4
+Release:	5
 License:	BSD
 Group:		System/Libraries
 Url:		http://www.atheme.org/project/guess
