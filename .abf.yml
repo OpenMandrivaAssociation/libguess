@@ -1,2 +1,4 @@
+removed_sources:
+  libguess-1.1.tar.bz2: 49e08bbd585dc888dccb11f74c4366d42e85c139
 sources:
-  "libguess-1.1.tar.bz2": 49e08bbd585dc888dccb11f74c4366d42e85c139
+  libguess-1.2.tar.bz2: 1fb51ac3f8f8f1ee8fd29474354bd04d1130b52d
