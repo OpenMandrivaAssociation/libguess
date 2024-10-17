@@ -8,7 +8,7 @@ Version:	1.2
 Release:	8
 License:	BSD
 Group:		System/Libraries
-Url:		http://www.atheme.org/project/guess
+Url:		https://www.atheme.org/project/guess
 Source0:	http://distfiles.atheme.org/%{name}-%{version}.tar.bz2
 BuildRequires:	pkgconfig(libmowgli)
 
